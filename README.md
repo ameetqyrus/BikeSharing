@@ -5,6 +5,7 @@ This repository contains a Jupyter Notebook that performs exploratory data analy
 ## 📁 Files
 - `Bike_Sharing.ipynb` — Jupyter notebook with code and analysis.
 - `download.csv` — Dataset containing daily bike rental data.
+- 'Subjective_Answers.pdf" - Contains answers to the conceptual questions.
 
 ## 📊 Dataset Description
 The dataset (`download.csv`) includes:
